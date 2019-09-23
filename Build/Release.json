@@ -1,0 +1,17 @@
+{
+"companyName": "Telepathic Squid Productions",
+"productName": "Falling Over Simulator",
+"productVersion": "1.0.0",
+"dataUrl": "Release.data.unityweb",
+"wasmCodeUrl": "Release.wasm.code.unityweb",
+"wasmFrameworkUrl": "Release.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Release.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
